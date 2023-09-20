@@ -14,10 +14,13 @@ Before building and launching the API, make sure you have the following prerequi
 Follow these steps to build and launch the API:
 
 1. Get the Repository:
+```bash 
+    git clone https://github.com/mohcinehasnipro/challenge-powerplant.git
+```
 
 2. Navigate to the API Directory:
 ```bash 
-    cd PowerPlantProductionPlanAPI
+    cd challenge-powerplant
 ```
 3. Build the API:
 ```bash
